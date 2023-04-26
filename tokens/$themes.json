@@ -3,8 +3,10 @@
     "id": "055e8137f6d95886eef017ba9ae0da8cbddaf40c",
     "name": "Pendant",
     "selectedTokenSets": {
-      "pd brand": "source",
-      "components": "enabled"
+      "pd brand": "enabled",
+      "components": "enabled",
+      "pd function": "enabled",
+      "core": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -12,7 +14,10 @@
     "id": "4e13656fc967c693115163dd3d38bc34c8bc462e",
     "name": "Banzai",
     "selectedTokenSets": {
-      "bz brand": "source"
+      "bz brand": "enabled",
+      "bz function": "enabled",
+      "core": "source",
+      "components": "enabled"
     },
     "$figmaStyleReferences": {}
   }

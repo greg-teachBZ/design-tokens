@@ -1,0 +1,12 @@
+{
+  "button": {
+    "primary": {
+      "fill": {
+        "gold": {
+          "value": "{gold.1}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

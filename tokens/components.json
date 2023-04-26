@@ -2,7 +2,7 @@
   "buttonCopy": {
     "label": {
       "value": {
-        "fontFamily": "{fontFamily.gtFlexa}",
+        "fontFamily": "{fontFamily.cardinalGrotesque}",
         "fontWeight": "{microCopy.fontWeight.medium}",
         "lineHeight": "{lineHeight.scale.100}",
         "fontSize": "{microCopy.fontSize.large}",
