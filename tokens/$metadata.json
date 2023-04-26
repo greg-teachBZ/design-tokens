@@ -1,7 +1,10 @@
 {
   "tokenSetOrder": [
     "pd global",
+    "bz global",
     "pd set: default",
-    "pd components"
+    "bz set: default",
+    "pd components",
+    "bz components"
   ]
 }
