@@ -3,9 +3,8 @@
     "id": "055e8137f6d95886eef017ba9ae0da8cbddaf40c",
     "name": "Pendant",
     "selectedTokenSets": {
-      "pd set: default": "enabled",
-      "pd components": "enabled",
-      "pd global": "source"
+      "pd brand": "source",
+      "components": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,9 +12,7 @@
     "id": "4e13656fc967c693115163dd3d38bc34c8bc462e",
     "name": "Banzai",
     "selectedTokenSets": {
-      "bz global": "source",
-      "bz set: default": "enabled",
-      "bz components": "enabled"
+      "bz brand": "source"
     },
     "$figmaStyleReferences": {}
   }
