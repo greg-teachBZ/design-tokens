@@ -1,0 +1,100 @@
+{
+  "buttonCopy": {
+    "label": {
+      "value": {
+        "fontFamily": "{fontFamily.gtFlexa}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{lineheight.24}",
+        "fontSize": "{fontsize.18}",
+        "letterSpacing": "{letterspacing.0}",
+        "textCase": "{textcase.none}"
+      },
+      "type": "typography"
+    },
+    "icons": {
+      "value": {
+        "fontFamily": "{fontFamily.pdIcons}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{lineheight.24}",
+        "fontSize": "{fontsize.24}",
+        "letterSpacing": "{letterspacing.0}",
+        "textCase": "{textcase.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "button": {
+    "primary": {
+      "padding": {
+        "small": {
+          "value": "{spacing.6} {spacing.24} {spacing.6} {spacing.24}",
+          "type": "spacing"
+        },
+        "large": {
+          "value": "{spacing.12} {spacing.36} {spacing.12} {spacing.36}",
+          "type": "spacing"
+        }
+      },
+      "gaps": {
+        "default": {
+          "value": "{spacing.8}",
+          "type": "spacing"
+        }
+      },
+      "fill": {
+        "gold": {
+          "value": "{foreground.fill.accent.gold}",
+          "type": "color"
+        },
+        "blue": {
+          "value": "{foreground.fill.accent.blue}",
+          "type": "color"
+        },
+        "redorange": {
+          "value": "{foreground.fill.accent.redOrange}",
+          "type": "color"
+        },
+        "yellow": {
+          "value": "{yellow.1}",
+          "type": "color"
+        },
+        "pink": {
+          "value": "{pink.1}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "color": {
+          "value": "{typography.neutral.black}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "black": {
+          "value": "{foreground.border.neutral.black}",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "fill": {
+        "white": {
+          "value": "{foreground.fill.neutral.white}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "black": {
+          "value": "{foreground.border.neutral.black}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "black": {
+          "value": "{typography.neutral.black}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

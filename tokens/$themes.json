@@ -1,0 +1,12 @@
+[
+  {
+    "id": "055e8137f6d95886eef017ba9ae0da8cbddaf40c",
+    "name": "Pendant",
+    "selectedTokenSets": {
+      "pd-global": "enabled",
+      "pd set: default": "enabled",
+      "pd components": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
