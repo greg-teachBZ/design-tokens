@@ -122,7 +122,7 @@
         "y": "{sizing.4}",
         "blur": "0",
         "spread": "0",
-        "color": "{gray.1}",
+        "color": "{brand.gray.1}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -133,7 +133,7 @@
         "y": "{sizing.8}",
         "blur": "0",
         "spread": "0",
-        "color": "{gray.1}",
+        "color": "{brand.gray.1}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -277,6 +277,16 @@
     "none": {
       "value": "none",
       "type": "textDecoration"
+    }
+  },
+  "opacity": {
+    "0": {
+      "value": "0%",
+      "type": "opacity"
+    },
+    "100": {
+      "value": "100%",
+      "type": "opacity"
     }
   }
 }

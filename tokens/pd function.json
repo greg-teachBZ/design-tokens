@@ -1,12 +1,218 @@
 {
-  "button": {
-    "primary": {
-      "fill": {
-        "gold": {
-          "value": "{gold.1}",
+  "foreground": {
+    "fill": {
+      "accent": {
+        "1": {
+          "value": "{brand.gold.1}",
+          "type": "color"
+        },
+        "2": {
+          "value": "{brand.blue.2}",
+          "type": "color"
+        },
+        "3": {
+          "value": "{brand.pink.1}",
+          "type": "color"
+        },
+        "4": {
+          "value": "{brand.red-orange.1}",
+          "type": "color"
+        },
+        "5": {
+          "value": "{brand.yellow.1}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "1": {
+          "value": "{brand.blue.1}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "1": {
+          "value": "{brand.red-orange.1}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "black": {
+          "value": "{brand.gray.1}",
+          "type": "color"
+        },
+        "gray": {
+          "value": "{brand.gray.8}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{brand.gray.9}",
           "type": "color"
         }
       }
+    },
+    "font": {
+      "neutral": {
+        "black": {
+          "value": "{brand.gray.1}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{brand.gray.9}",
+          "type": "color"
+        }
+      },
+      "semantic": {
+        "value": "{brand.red-orange.4}",
+        "type": "color",
+        "success": {
+          "value": "{brand.blue.4}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{brand.gold.4}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "system": {
+    "accent": {
+      "1": {
+        "value": "{brand.gold.1}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "1": {
+        "value": "{brand.red-orange.1}",
+        "type": "color"
+      }
+    },
+    "alert": {
+      "1": {
+        "value": "{brand.yellow.1}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "1": {
+        "value": "{brand.blue.1}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "1": {
+        "value": "{brand.gray.1}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "1": {
+        "value": "{brand.pink.1}",
+        "type": "color"
+      }
+    }
+  },
+  "background": {
+    "neutral": {
+      "1": {
+        "value": "{brand.gray.1}",
+        "type": "color"
+      },
+      "white": {
+        "value": "{brand.gray.9}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "red": {
+        "value": "{brand.red-orange.1}",
+        "type": "color"
+      },
+      "blue": {
+        "value": "{brand.blue.1}",
+        "type": "color"
+      },
+      "gold": {
+        "value": "{brand.gold.1}",
+        "type": "color"
+      }
+    }
+  },
+  "shadow": {
+    "black": {
+      "value": "{brand.gray.1}",
+      "type": "color"
+    }
+  },
+  "action": {
+    "background": {
+      "accent": {
+        "value": "{brand.gold.1}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{brand.red-orange.1}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{brand.yellow.1}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{brand.blue.2}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{brand.pink.1}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{brand.gray.9}",
+        "type": "color"
+      },
+      "translucent": {
+        "value": "{brand.gray.9}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "font": {
+      "accent": {
+        "value": "{brand.gray.1}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "solid": {
+        "value": "{brand.gray.1}",
+        "type": "color"
+      },
+      "translucent": {
+        "value": "{gray.9}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "disabled": {
+      "value": ".7",
+      "type": "opacity"
     }
   }
 }

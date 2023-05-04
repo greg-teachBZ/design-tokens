@@ -1,138 +1,140 @@
 {
-  "yellow": {
-    "1": {
-      "value": "#ffbc00",
-      "type": "color"
+  "brand": {
+    "yellow": {
+      "1": {
+        "value": "#ffbc00",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ffd766",
+        "type": "color"
+      },
+      "3": {
+        "value": "#ffefc2",
+        "type": "color"
+      },
+      "4": {
+        "value": "#825212",
+        "type": "color"
+      }
     },
-    "2": {
-      "value": "#ffd766",
-      "type": "color"
+    "blue": {
+      "1": {
+        "value": "#1177ff",
+        "type": "color"
+      },
+      "2": {
+        "value": "#70adff",
+        "type": "color"
+      },
+      "3": {
+        "value": "#cbe4fc",
+        "type": "color"
+      },
+      "4": {
+        "value": "#285494",
+        "type": "color"
+      }
     },
-    "3": {
-      "value": "#ffefc2",
-      "type": "color"
+    "pink": {
+      "1": {
+        "value": "#ffb0bb",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ffd0d6",
+        "type": "color"
+      },
+      "3": {
+        "value": "#ffecef",
+        "type": "color"
+      },
+      "4": {
+        "value": "#914654",
+        "type": "color"
+      }
     },
-    "4": {
-      "value": "#825212",
-      "type": "color"
-    }
-  },
-  "blue": {
-    "1": {
-      "value": "#1177ff",
-      "type": "color"
+    "red-orange": {
+      "1": {
+        "value": "#ff653b",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ffa389",
+        "type": "color"
+      },
+      "3": {
+        "value": "#ffdad2",
+        "type": "color"
+      },
+      "4": {
+        "value": "#8d402b",
+        "type": "color"
+      }
     },
-    "2": {
-      "value": "#70adff",
-      "type": "color"
+    "gold": {
+      "1": {
+        "value": "#e09850",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ecc196",
+        "type": "color"
+      },
+      "3": {
+        "value": "#f6e4d4",
+        "type": "color"
+      },
+      "4": {
+        "value": "#7f4d28",
+        "type": "color"
+      }
     },
-    "3": {
-      "value": "#cbe4fc",
-      "type": "color"
-    },
-    "4": {
-      "value": "#285494",
-      "type": "color"
-    }
-  },
-  "pink": {
-    "1": {
-      "value": "#ffb0bb",
-      "type": "color"
-    },
-    "2": {
-      "value": "#ffd0d6",
-      "type": "color"
-    },
-    "3": {
-      "value": "#ffecef",
-      "type": "color"
-    },
-    "4": {
-      "value": "#914654",
-      "type": "color"
-    }
-  },
-  "red-orange": {
-    "1": {
-      "value": "#ff653b",
-      "type": "color"
-    },
-    "2": {
-      "value": "#ffa389",
-      "type": "color"
-    },
-    "3": {
-      "value": "#ffdad2",
-      "type": "color"
-    },
-    "4": {
-      "value": "#8d402b",
-      "type": "color"
-    }
-  },
-  "gold": {
-    "1": {
-      "value": "#e09850",
-      "type": "color"
-    },
-    "2": {
-      "value": "#ecc196",
-      "type": "color"
-    },
-    "3": {
-      "value": "#f6e4d4",
-      "type": "color"
-    },
-    "4": {
-      "value": "#7f4d28",
-      "type": "color"
-    }
-  },
-  "gray": {
-    "1": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "2": {
-      "value": "#1c1b1a",
-      "type": "color"
-    },
-    "3": {
-      "value": "#434240",
-      "type": "color"
-    },
-    "4": {
-      "value": "#6a6866",
-      "type": "color"
-    },
-    "5": {
-      "value": "#928f8b",
-      "type": "color"
-    },
-    "6": {
-      "value": "#b9b5b1",
-      "type": "color"
-    },
-    "7": {
-      "value": "#e0dcd7",
-      "type": "color"
-    },
-    "8": {
-      "value": "#f1efed",
-      "type": "color"
-    },
-    "9": {
-      "value": "#ffffff",
-      "type": "color"
+    "gray": {
+      "1": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "2": {
+        "value": "#1c1b1a",
+        "type": "color"
+      },
+      "3": {
+        "value": "#434240",
+        "type": "color"
+      },
+      "4": {
+        "value": "#6a6866",
+        "type": "color"
+      },
+      "5": {
+        "value": "#928f8b",
+        "type": "color"
+      },
+      "6": {
+        "value": "#b9b5b1",
+        "type": "color"
+      },
+      "7": {
+        "value": "#e0dcd7",
+        "type": "color"
+      },
+      "8": {
+        "value": "#f1efed",
+        "type": "color"
+      },
+      "9": {
+        "value": "#ffffff",
+        "type": "color"
+      }
     }
   },
   "fontFamily": {
-    "gtFlexa": {
+    "core": {
       "value": "GT Flexa",
       "type": "fontFamilies"
     },
-    "pdIcons": {
+    "icon": {
       "value": "Pendant Icons",
       "type": "fontFamilies"
     }

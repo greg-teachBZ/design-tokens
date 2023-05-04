@@ -3,7 +3,7 @@
     "primary": {
       "fill": {
         "blue": {
-          "value": "{blue.1}",
+          "value": "{brand.blue.1}",
           "type": "color"
         }
       }
@@ -11,7 +11,7 @@
     "secondary": {
       "border": {
         "blue": {
-          "value": "{blue.1}",
+          "value": "{brand.blue.1}",
           "type": "color"
         }
       }
