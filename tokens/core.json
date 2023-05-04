@@ -122,7 +122,7 @@
         "y": "{sizing.4}",
         "blur": "0",
         "spread": "0",
-        "color": "{brand.gray.1}",
+        "color": "{color.brand.gray.1}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -133,7 +133,7 @@
         "y": "{sizing.8}",
         "blur": "0",
         "spread": "0",
-        "color": "{brand.gray.1}",
+        "color": "{color.brand.gray.1}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

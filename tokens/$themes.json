@@ -316,7 +316,6 @@
       "background.accent.gold": "S:67eeeed47d7a4b536fd6dbda4f96437efa8494fe,",
       "action.background.accent": "S:5ad37a56b23afadd9523f8ec8797940c8c69af35,",
       "action.background.danger": "S:bbe6aa04b506ecc19bc313ad86461a1a39d3e63e,",
-      "action.font.accent": "S:f93e957949081a8648f4c7a306023635ebab6ddd,",
       "action.background.warning": "S:77365b0f2226576f19c974c882384166153c9632,",
       "action.background.success": "S:8bc3da4de3d8084ce25209ae0ea1a8a29849e318,",
       "action.background.info": "S:a5e845f30c095ae6f30830a52ee3fe859e664a8f,",
@@ -326,7 +325,8 @@
       "button.accent.primary.idle.font": "S:64b73d74afd8701f3fdd7bd4de2862ca1e09f676,",
       "button.accent.primary.hover.font": "S:6233f51f9d23d4a0193e6e5be28f34daf6106a90,",
       "button.accent.primary.focus.font": "S:9ad63665ef16b4e4240a5ff492759a93e9214043,",
-      "action.border.solid": "S:f68a50149ea11c97b574b10226741633e830b9c7,"
+      "action.border.solid": "S:f68a50149ea11c97b574b10226741633e830b9c7,",
+      "action.font.accent.onDark": "S:f93e957949081a8648f4c7a306023635ebab6ddd,"
     }
   },
   {

@@ -1,18 +1,72 @@
 {
-  "button": {
-    "primary": {
-      "fill": {
-        "blue": {
-          "value": "{brand.blue.1}",
+  "action": {
+    "background": {
+      "accent": {
+        "value": "{color.brand.blue.1}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{color.brand.red-orange.1}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.brand.yellow.1}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color.brand.blue.2}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{color.brand.pink.1}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{color.brand.gray.9}",
+        "type": "color"
+      },
+      "translucent": {
+        "value": "{color.brand.gray.9}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "font": {
+      "accent": {
+        "onDark": {
+          "value": "{color.brand.gray.9}",
+          "type": "color"
+        },
+        "onLight": {
+          "value": "{color.brand.gray.1}",
           "type": "color"
         }
       }
     },
-    "secondary": {
-      "border": {
-        "blue": {
-          "value": "{brand.blue.1}",
-          "type": "color"
+    "border": {
+      "solid": {
+        "value": "{color.brand.gray.1}",
+        "type": "color"
+      },
+      "translucent": {
+        "value": "{gray.9}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
         }
       }
     }
