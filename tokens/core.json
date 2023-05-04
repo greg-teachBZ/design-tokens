@@ -139,7 +139,7 @@
       "type": "boxShadow"
     }
   },
-  "fontWeight-copy": {
+  "fontWeight": {
     "bold": {
       "value": "Bold",
       "type": "fontWeights"
